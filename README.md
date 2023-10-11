@@ -28,7 +28,7 @@ I'm John Bailey, a passionate Data Science student from San Francisco. Welcome t
 
 Check out some of my featured projects:
 
-- [Project 1](https://github.com/JohnBailey2024/AirBNB-NYC) - This project aims to extract useful insights from a airbnb dataset
+- [Project 1](https://github.com/JohnBailey2024/AirBNB-NYC) - This project aims to extract useful insights from an airbnb dataset
 - [Project 2](link-to-project2) - Brief description of the project.
 
 For a full list of my projects, you can visit my [Portfolio](https://github.com/JohnBailey2024?tab=repositories).
