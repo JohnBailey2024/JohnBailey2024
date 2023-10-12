@@ -31,13 +31,13 @@ I'm John Bailey, a passionate Data Science student from San Francisco. Welcome t
 Check out some of my featured projects:
 
 - [Project 1](https://github.com/JohnBailey2024/AirBNB-NYC) - This project aims to extract useful insights from an airbnb dataset
-- [Project 2](https://github.com/JohnBailey2024/Traveling-Salesman)) - This project is my solution to the traveling salesman problem.
+- [Project 2](https://github.com/JohnBailey2024/Traveling-Salesman) - This project is my solution to the traveling salesman problem.
 
 For a full list of my projects, you can visit my [Portfolio](https://github.com/JohnBailey2024?tab=repositories).
 
 ## Let's Connect
 
-- 📧 You can email me at [johngorb@gmail.com].
+- 📧 You can email me at [email](johngorb@gmail.com).
 - 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/john-bailey-1a131620a/).
 
 I'm excited to connect with you and work on amazing projects together. Let's build the future!
