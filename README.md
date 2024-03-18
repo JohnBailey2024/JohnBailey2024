@@ -32,6 +32,7 @@ Check out some of my featured projects:
 
 - [Project 1](https://github.com/JohnBailey2024/AirBNB-NYC) - This project aims to extract useful insights from an airbnb dataset
 - [Project 2](https://github.com/JohnBailey2024/Traveling-Salesman) - This project is my solution to the traveling salesman problem.
+- [Project 3](https://github.com/JohnBailey2024/CareerMongo) - This project automates job posting collection and offers a user-friendly platform for personalized job searching.
 
 For a full list of my projects, you can visit my [Portfolio](https://github.com/JohnBailey2024?tab=repositories).
 
