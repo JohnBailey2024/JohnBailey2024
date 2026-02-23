@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About Me
 I'm John Bailey, a passionate Data Science student from San Francisco. Welcome to my GitHub profile!
 
-🌱 I'm currently working toward my Masters in Data Science at the University of San Francisco.
+🌱 I'm currently working as a Data Scientist at Feedzai.
 
 📚I love learning and applying what I’ve learned to solve problems. 
 
